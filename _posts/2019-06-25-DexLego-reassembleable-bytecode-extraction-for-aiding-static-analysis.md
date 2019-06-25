@@ -1,3 +1,14 @@
+---
+layout:     post
+title:      DexLego
+subtitle:   Reassembleable Bytecode Extraction For Aiding Static Analysis
+date:       2019-06-25
+author:     101142ts
+header-img: img/post-bg-hacker.jpg
+catalog: true
+tags: Android 
+---
+
 # DexLego:Reassembleable Bytecode Extraction For Aiding Static Analysis
 
 ## Abstart
